@@ -1,0 +1,7 @@
+pathlib
+pytest
+pandas
+numpy
+faker
+pyodbc
+dotenv

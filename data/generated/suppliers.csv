@@ -1,0 +1,51 @@
+supplier_id,supplier_name,contact_name,contact_email,country,primary_category
+1,Proveedor Banca Privada OLMJ S.L.N.E,Manolo Roca Antón,buenoisaias@banca.es,Peru,Steel & Rebar
+2,Proveedor Supermercados Integrales S.L.L.,Reynaldo Cuervo Rocamora,leopoldo23@calatayud.es,Peru,Steel & Rebar
+3,Proveedor Lamas & Asociados S.L.,Beatriz del Bermúdez,paula95@comercializadora.org,Peru,Steel & Rebar
+4,Proveedor Hotel TX S.L.L.,Gil Padilla Gallego,judith19@industrias.org,Peru,Steel & Rebar
+5,Proveedor Logística Castellana S.A.T.,Samuel Moles Quero,blas39@garcia.es,Peru,Steel & Rebar
+6,Proveedor Infraestructuras Chaparro S.A.U,Lupita del Romero,oparedes@transportes.com,Peru,Steel & Rebar
+7,Proveedor Distribuciones Roca S.Coop.,Francisca Solé Ángel,carolina01@manufacturas.es,Peru,Steel & Rebar
+8,Proveedor Hermanos Valle S.L.,Zaira Camino,prudencia89@despacho.com,Peru,Steel & Rebar
+9,Proveedor Torres & Asociados S.A.,Valeria Meléndez Heras,hernandoselena@compania.es,Peru,Steel & Rebar
+10,Proveedor Infraestructuras Álamo S.L.N.E,Cloe Font Mesa,cperea@dionisio.com,Peru,Steel & Rebar
+11,Proveedor Hotel Avanzadas S.A.,Darío Bauzà Angulo,calisto83@transportes.es,Peru,Steel & Rebar
+12,Proveedor Tecnologías del Noroeste S.A.,Narciso Rosa Pablo,dreig@familia.es,Peru,Steel & Rebar
+13,Proveedor Industrias JX S.Com.,Jerónimo Iborra-Benet,dcabanas@familia.es,Peru,Structural & Piping
+14,Proveedor Ignacio Quero Barral S.A.,Guiomar Lara Sanz,teo87@finanzas.com,Peru,Structural & Piping
+15,Proveedor Hermanos Barceló S.A.,Lidia Criado Barberá,estevezbruno@industrias.com,Peru,Structural & Piping
+16,Proveedor Yáñez y Molina S.L.N.E,Nicanor Miralles,juan-manuelpriego@inversiones.com,Peru,Structural & Piping
+17,Proveedor Hnos Cabo S.A.,José Luis Lara,pacobayona@promociones.org,Peru,Structural & Piping
+18,Proveedor Hermanos Calleja S.L.N.E,Eligio Carlos Campo,lalolujan@manufacturas.org,Peru,Structural & Piping
+19,Proveedor José Azcona Bru S.L.,Alfredo Acevedo-Múgica,febejuarez@supermercados.com,Peru,Structural & Piping
+20,Proveedor Despacho BTCW S.A.,Ximena Ariño Pallarès,isabeliborra@mineria.com,Peru,Structural & Piping
+21,Proveedor Soluciones Amat S.A.,Ricarda Requena Hurtado,feliciano16@hnos.es,Peru,Structural & Piping
+22,Proveedor Mayoral & Asociados S.A.T.,Heraclio Moya,rosaura14@vergara.es,Peru,Structural & Piping
+23,Proveedor Familia Julián S.A.,Alejo Camps-Rovira,luisina56@restauracion.net,Peru,Electrical & Industrial
+24,Proveedor Rosado & Asociados S.L.N.E,Matilde Mir Casanovas,anunciacion46@quevedo.net,Peru,Electrical & Industrial
+25,Proveedor Pinilla y Dávila S.Coop.,Hermenegildo Leocadio Abad Mateu,humberto69@sola.net,Peru,Electrical & Industrial
+26,Proveedor Nadia Doménech Blazquez S.C.P,Eva María Araceli Gutierrez Menéndez,noeliaflor@banca.es,Peru,Electrical & Industrial
+27,Proveedor Talleres UDL S.Com.,Daniela Coloma Adán,rodriguezisidoro@talleres.com,Peru,Electrical & Industrial
+28,Proveedor Eliseo Sobrino Molins S.L.N.E,María José Vargas Roldan,vcuenca@vinicio.org,Peru,Electrical & Industrial
+29,Proveedor Eugenia Haro Llobet S.Com.,Desiderio Elías Narváez Montenegro,chaconeutropio@restauracion.com,Peru,Electrical & Industrial
+30,Proveedor Ramón y Muro S.Coop.,Ana Gabaldón Rivera,waller@tapia.org,Peru,Electrical & Industrial
+31,Proveedor Rius y Giménez S.Coop.,Isaías Torralba-Andres,qnavarrete@dalmau.com,Peru,Electrical & Industrial
+32,Proveedor Amores y Blanes S.L.,Toribio Serrano Espada,juanreynaldo@galan.es,Peru,Electrical & Industrial
+33,Proveedor Soluciones Iniesta & Asociados S.Coop.,Amaya del Gomez,arjonamarisela@grupo.com,Peru,Electrical & Industrial
+34,Proveedor Desarrollo del Sur S.L.,Concha Sola-Jaén,florencio99@distribuciones.es,Peru,Heavy Equipment & Tools
+35,Proveedor Fiol y Benitez S.Coop.,Aurelio del Carrillo,oliveraberta@pellicer.es,Peru,Heavy Equipment & Tools
+36,Proveedor Hnos Trillo S.A.,Mercedes Segura Coronado,uecheverria@tecnologias.org,Peru,Heavy Equipment & Tools
+37,Proveedor Higueras & Asociados S.C.P,Daniela Sobrino Pinilla,ambrosio75@transportes.org,Peru,Heavy Equipment & Tools
+38,Proveedor Losa y asociados S.Coop.,Celestina Boada,lolaramos@catalina.es,Peru,Heavy Equipment & Tools
+39,Proveedor Mónica Alemany Buendía S.Com.,Nydia Hervia Medina,ainara88@roig.es,Peru,Heavy Equipment & Tools
+40,Proveedor Inversiones Iglesias & Asociados S.A.,Fausto Carreras,gregoriogascon@leonel.net,Peru,Heavy Equipment & Tools
+41,Proveedor Hotel Paniagua & Asociados S.Com.,Begoña del Arroyo,manzanojose@transportes.org,Peru,Heavy Equipment & Tools
+42,Proveedor Alejandra Saez Niño S.A.,Edmundo Tejedor Carbonell,perezamparo@comercial.net,Peru,Heavy Equipment & Tools
+43,Proveedor Soluciones EGOT S.L.N.E,Tito Macario Romeu Mayoral,cabezasmaria-carmen@fabrica.com,Peru,Safety & Maintenance
+44,Proveedor Farmaceútica Española S.A.,Javiera Soriano Manuel,guardiolaluis@talleres.net,Peru,Safety & Maintenance
+45,Proveedor Cardona y Gomila S.L.,Severiano Cisneros-Bellido,dazamonica@instalaciones.org,Peru,Safety & Maintenance
+46,Proveedor Lladó y Vall S.Coop.,Anita Ariño Rosales,elisabet40@hotel.org,Peru,Safety & Maintenance
+47,Proveedor Grupo Sosa S.Coop.,África Lobo Escudero,ftellez@pablo.com,Peru,Safety & Maintenance
+48,Proveedor Manufacturas Requena S.L.,Natanael Herberto Arco Sanz,mirandajose-antonio@carmona.com,Peru,Safety & Maintenance
+49,Proveedor Severiano Ballester Expósito S.Coop.,Prudencia Leticia Salamanca Aznar,juanitocastro@supermercados.net,Peru,Safety & Maintenance
+50,Proveedor Inversiones Alcalá S.Coop.,Daniel Carballo Serrano,correaandrea@inmobiliaria.net,Peru,Safety & Maintenance

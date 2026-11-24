@@ -1,0 +1,501 @@
+product_id,product_sku,product_name,category,unit_base_cost,unit_base_price,supplier_id
+1,PRD-STE-0001,Producto Steel & Rebar Grade-1,Steel & Rebar,962.65,1234.17,8
+2,PRD-STE-0002,Producto Steel & Rebar Grade-2,Steel & Rebar,1051.53,1348.12,6
+3,PRD-STE-0003,Producto Steel & Rebar Grade-3,Steel & Rebar,882.24,1131.08,3
+4,PRD-STE-0004,Producto Steel & Rebar Grade-4,Steel & Rebar,1174.4,1505.64,2
+5,PRD-STE-0005,Producto Steel & Rebar Grade-5,Steel & Rebar,949.2,1216.92,9
+6,PRD-STE-0006,Producto Steel & Rebar Grade-6,Steel & Rebar,284.52,364.77,10
+7,PRD-STE-0007,Producto Steel & Rebar Grade-7,Steel & Rebar,622.91,798.6,7
+8,PRD-STE-0008,Producto Steel & Rebar Grade-8,Steel & Rebar,1123.1,1439.87,5
+9,PRD-STE-0009,Producto Steel & Rebar Grade-9,Steel & Rebar,826.06,1059.05,5
+10,PRD-STE-0010,Producto Steel & Rebar Grade-10,Steel & Rebar,615.58,789.21,10
+11,PRD-STE-0011,Producto Steel & Rebar Grade-11,Steel & Rebar,388.6,498.21,2
+12,PRD-STE-0012,Producto Steel & Rebar Grade-12,Steel & Rebar,217.01,278.22,7
+13,PRD-STE-0013,Producto Steel & Rebar Grade-13,Steel & Rebar,1019.01,1306.42,4
+14,PRD-STE-0014,Producto Steel & Rebar Grade-14,Steel & Rebar,945.99,1212.81,8
+15,PRD-STE-0015,Producto Steel & Rebar Grade-15,Steel & Rebar,522.25,669.55,1
+16,PRD-STE-0016,Producto Steel & Rebar Grade-16,Steel & Rebar,1087.78,1394.59,12
+17,PRD-STE-0017,Producto Steel & Rebar Grade-17,Steel & Rebar,967.3,1240.13,10
+18,PRD-STE-0018,Producto Steel & Rebar Grade-18,Steel & Rebar,640.06,820.59,3
+19,PRD-STE-0019,Producto Steel & Rebar Grade-19,Steel & Rebar,195.99,251.27,7
+20,PRD-STE-0020,Producto Steel & Rebar Grade-20,Steel & Rebar,867.2,1111.79,2
+21,PRD-STE-0021,Producto Steel & Rebar Grade-21,Steel & Rebar,932.0,1194.87,5
+22,PRD-STE-0022,Producto Steel & Rebar Grade-22,Steel & Rebar,492.12,630.92,12
+23,PRD-STE-0023,Producto Steel & Rebar Grade-23,Steel & Rebar,538.98,691.0,1
+24,PRD-STE-0024,Producto Steel & Rebar Grade-24,Steel & Rebar,348.94,447.36,6
+25,PRD-STE-0025,Producto Steel & Rebar Grade-25,Steel & Rebar,286.42,367.21,9
+26,PRD-STE-0026,Producto Steel & Rebar Grade-26,Steel & Rebar,388.25,497.76,6
+27,PRD-STE-0027,Producto Steel & Rebar Grade-27,Steel & Rebar,853.3,1093.97,12
+28,PRD-STE-0028,Producto Steel & Rebar Grade-28,Steel & Rebar,1024.31,1313.22,6
+29,PRD-STE-0029,Producto Steel & Rebar Grade-29,Steel & Rebar,885.28,1134.97,2
+30,PRD-STE-0030,Producto Steel & Rebar Grade-30,Steel & Rebar,1023.87,1312.65,4
+31,PRD-STE-0031,Producto Steel & Rebar Grade-31,Steel & Rebar,995.0,1275.64,11
+32,PRD-STE-0032,Producto Steel & Rebar Grade-32,Steel & Rebar,452.74,580.44,5
+33,PRD-STE-0033,Producto Steel & Rebar Grade-33,Steel & Rebar,866.62,1111.05,8
+34,PRD-STE-0034,Producto Steel & Rebar Grade-34,Steel & Rebar,359.9,461.41,2
+35,PRD-STE-0035,Producto Steel & Rebar Grade-35,Steel & Rebar,157.73,202.22,10
+36,PRD-STE-0036,Producto Steel & Rebar Grade-36,Steel & Rebar,848.09,1087.29,10
+37,PRD-STE-0037,Producto Steel & Rebar Grade-37,Steel & Rebar,890.42,1141.56,4
+38,PRD-STE-0038,Producto Steel & Rebar Grade-38,Steel & Rebar,631.86,810.08,10
+39,PRD-STE-0039,Producto Steel & Rebar Grade-39,Steel & Rebar,747.18,957.92,1
+40,PRD-STE-0040,Producto Steel & Rebar Grade-40,Steel & Rebar,270.26,346.49,2
+41,PRD-STE-0041,Producto Steel & Rebar Grade-41,Steel & Rebar,851.82,1092.08,8
+42,PRD-STE-0042,Producto Steel & Rebar Grade-42,Steel & Rebar,743.5,953.21,6
+43,PRD-STE-0043,Producto Steel & Rebar Grade-43,Steel & Rebar,953.25,1222.12,7
+44,PRD-STE-0044,Producto Steel & Rebar Grade-44,Steel & Rebar,731.26,937.51,8
+45,PRD-STE-0045,Producto Steel & Rebar Grade-45,Steel & Rebar,737.17,945.09,10
+46,PRD-STE-0046,Producto Steel & Rebar Grade-46,Steel & Rebar,182.36,233.79,4
+47,PRD-STE-0047,Producto Steel & Rebar Grade-47,Steel & Rebar,608.55,780.19,12
+48,PRD-STE-0048,Producto Steel & Rebar Grade-48,Steel & Rebar,578.96,742.26,3
+49,PRD-STE-0049,Producto Steel & Rebar Grade-49,Steel & Rebar,1046.07,1341.12,1
+50,PRD-STE-0050,Producto Steel & Rebar Grade-50,Steel & Rebar,211.22,270.79,3
+51,PRD-STE-0051,Producto Steel & Rebar Grade-51,Steel & Rebar,445.45,571.09,12
+52,PRD-STE-0052,Producto Steel & Rebar Grade-52,Steel & Rebar,845.01,1083.35,4
+53,PRD-STE-0053,Producto Steel & Rebar Grade-53,Steel & Rebar,734.88,942.15,7
+54,PRD-STE-0054,Producto Steel & Rebar Grade-54,Steel & Rebar,847.53,1086.58,10
+55,PRD-STE-0055,Producto Steel & Rebar Grade-55,Steel & Rebar,576.71,739.37,6
+56,PRD-STE-0056,Producto Steel & Rebar Grade-56,Steel & Rebar,325.32,417.08,10
+57,PRD-STE-0057,Producto Steel & Rebar Grade-57,Steel & Rebar,173.85,222.88,2
+58,PRD-STE-0058,Producto Steel & Rebar Grade-58,Steel & Rebar,908.48,1164.72,2
+59,PRD-STE-0059,Producto Steel & Rebar Grade-59,Steel & Rebar,634.97,814.06,9
+60,PRD-STE-0060,Producto Steel & Rebar Grade-60,Steel & Rebar,676.1,866.79,2
+61,PRD-STE-0061,Producto Steel & Rebar Grade-61,Steel & Rebar,309.93,397.35,6
+62,PRD-STE-0062,Producto Steel & Rebar Grade-62,Steel & Rebar,618.46,792.9,9
+63,PRD-STE-0063,Producto Steel & Rebar Grade-63,Steel & Rebar,550.07,705.22,3
+64,PRD-STE-0064,Producto Steel & Rebar Grade-64,Steel & Rebar,811.8,1040.77,4
+65,PRD-STE-0065,Producto Steel & Rebar Grade-65,Steel & Rebar,529.9,679.36,12
+66,PRD-STE-0066,Producto Steel & Rebar Grade-66,Steel & Rebar,273.91,351.17,2
+67,PRD-STE-0067,Producto Steel & Rebar Grade-67,Steel & Rebar,1159.99,1487.17,5
+68,PRD-STE-0068,Producto Steel & Rebar Grade-68,Steel & Rebar,884.69,1134.22,11
+69,PRD-STE-0069,Producto Steel & Rebar Grade-69,Steel & Rebar,429.16,550.21,10
+70,PRD-STE-0070,Producto Steel & Rebar Grade-70,Steel & Rebar,967.69,1240.63,12
+71,PRD-STE-0071,Producto Steel & Rebar Grade-71,Steel & Rebar,902.73,1157.35,10
+72,PRD-STE-0072,Producto Steel & Rebar Grade-72,Steel & Rebar,435.85,558.78,6
+73,PRD-STE-0073,Producto Steel & Rebar Grade-73,Steel & Rebar,251.21,322.06,6
+74,PRD-STE-0074,Producto Steel & Rebar Grade-74,Steel & Rebar,628.57,805.86,11
+75,PRD-STE-0075,Producto Steel & Rebar Grade-75,Steel & Rebar,362.48,464.72,9
+76,PRD-STE-0076,Producto Steel & Rebar Grade-76,Steel & Rebar,758.18,972.03,4
+77,PRD-STE-0077,Producto Steel & Rebar Grade-77,Steel & Rebar,335.61,430.27,6
+78,PRD-STE-0078,Producto Steel & Rebar Grade-78,Steel & Rebar,946.45,1213.4,11
+79,PRD-STE-0079,Producto Steel & Rebar Grade-79,Steel & Rebar,905.44,1160.82,8
+80,PRD-STE-0080,Producto Steel & Rebar Grade-80,Steel & Rebar,808.67,1036.76,6
+81,PRD-STE-0081,Producto Steel & Rebar Grade-81,Steel & Rebar,763.3,978.59,2
+82,PRD-STE-0082,Producto Steel & Rebar Grade-82,Steel & Rebar,238.67,305.99,8
+83,PRD-STE-0083,Producto Steel & Rebar Grade-83,Steel & Rebar,586.6,752.05,10
+84,PRD-STE-0084,Producto Steel & Rebar Grade-84,Steel & Rebar,668.69,857.29,1
+85,PRD-STE-0085,Producto Steel & Rebar Grade-85,Steel & Rebar,496.35,636.35,8
+86,PRD-STE-0086,Producto Steel & Rebar Grade-86,Steel & Rebar,258.57,331.5,2
+87,PRD-STE-0087,Producto Steel & Rebar Grade-87,Steel & Rebar,767.03,983.37,10
+88,PRD-STE-0088,Producto Steel & Rebar Grade-88,Steel & Rebar,1121.38,1437.67,3
+89,PRD-STE-0089,Producto Steel & Rebar Grade-89,Steel & Rebar,760.11,974.5,6
+90,PRD-STE-0090,Producto Steel & Rebar Grade-90,Steel & Rebar,770.46,987.77,5
+91,PRD-STE-0091,Producto Steel & Rebar Grade-91,Steel & Rebar,173.94,223.0,2
+92,PRD-STE-0092,Producto Steel & Rebar Grade-92,Steel & Rebar,656.42,841.56,12
+93,PRD-STE-0093,Producto Steel & Rebar Grade-93,Steel & Rebar,971.87,1245.99,1
+94,PRD-STE-0094,Producto Steel & Rebar Grade-94,Steel & Rebar,660.99,847.42,1
+95,PRD-STE-0095,Producto Steel & Rebar Grade-95,Steel & Rebar,665.24,852.87,6
+96,PRD-STE-0096,Producto Steel & Rebar Grade-96,Steel & Rebar,750.31,961.94,12
+97,PRD-STE-0097,Producto Steel & Rebar Grade-97,Steel & Rebar,647.16,829.69,10
+98,PRD-STE-0098,Producto Steel & Rebar Grade-98,Steel & Rebar,498.15,638.65,4
+99,PRD-STE-0099,Producto Steel & Rebar Grade-99,Steel & Rebar,696.71,893.22,11
+100,PRD-STE-0100,Producto Steel & Rebar Grade-100,Steel & Rebar,172.69,221.4,6
+101,PRD-STE-0101,Producto Steel & Rebar Grade-101,Steel & Rebar,1017.61,1304.63,1
+102,PRD-STE-0102,Producto Steel & Rebar Grade-102,Steel & Rebar,297.26,381.1,11
+103,PRD-STE-0103,Producto Steel & Rebar Grade-103,Steel & Rebar,731.74,938.13,4
+104,PRD-STE-0104,Producto Steel & Rebar Grade-104,Steel & Rebar,855.85,1097.24,2
+105,PRD-STE-0105,Producto Steel & Rebar Grade-105,Steel & Rebar,445.3,570.9,3
+106,PRD-STE-0106,Producto Steel & Rebar Grade-106,Steel & Rebar,913.34,1170.95,8
+107,PRD-STE-0107,Producto Steel & Rebar Grade-107,Steel & Rebar,957.08,1227.03,4
+108,PRD-STE-0108,Producto Steel & Rebar Grade-108,Steel & Rebar,1111.81,1425.4,2
+109,PRD-STE-0109,Producto Steel & Rebar Grade-109,Steel & Rebar,391.72,502.21,3
+110,PRD-STE-0110,Producto Steel & Rebar Grade-110,Steel & Rebar,732.6,939.23,1
+111,PRD-STE-0111,Producto Steel & Rebar Grade-111,Steel & Rebar,539.47,691.63,4
+112,PRD-STE-0112,Producto Steel & Rebar Grade-112,Steel & Rebar,998.66,1280.33,10
+113,PRD-STE-0113,Producto Steel & Rebar Grade-113,Steel & Rebar,483.0,619.23,3
+114,PRD-STE-0114,Producto Steel & Rebar Grade-114,Steel & Rebar,455.46,583.92,12
+115,PRD-STE-0115,Producto Steel & Rebar Grade-115,Steel & Rebar,690.81,885.65,11
+116,PRD-STE-0116,Producto Steel & Rebar Grade-116,Steel & Rebar,1132.85,1452.37,4
+117,PRD-STE-0117,Producto Steel & Rebar Grade-117,Steel & Rebar,322.84,413.9,7
+118,PRD-STE-0118,Producto Steel & Rebar Grade-118,Steel & Rebar,606.85,778.01,1
+119,PRD-STE-0119,Producto Steel & Rebar Grade-119,Steel & Rebar,1191.99,1528.19,2
+120,PRD-STE-0120,Producto Steel & Rebar Grade-120,Steel & Rebar,936.04,1200.05,11
+121,PRD-STR-0121,Producto Structural & Piping Grade-1,Structural & Piping,765.91,1021.21,15
+122,PRD-STR-0122,Producto Structural & Piping Grade-2,Structural & Piping,479.52,639.36,21
+123,PRD-STR-0123,Producto Structural & Piping Grade-3,Structural & Piping,323.27,431.03,13
+124,PRD-STR-0124,Producto Structural & Piping Grade-4,Structural & Piping,589.48,785.97,20
+125,PRD-STR-0125,Producto Structural & Piping Grade-5,Structural & Piping,367.72,490.29,21
+126,PRD-STR-0126,Producto Structural & Piping Grade-6,Structural & Piping,655.03,873.37,13
+127,PRD-STR-0127,Producto Structural & Piping Grade-7,Structural & Piping,282.09,376.12,13
+128,PRD-STR-0128,Producto Structural & Piping Grade-8,Structural & Piping,265.55,354.07,22
+129,PRD-STR-0129,Producto Structural & Piping Grade-9,Structural & Piping,174.52,232.69,13
+130,PRD-STR-0130,Producto Structural & Piping Grade-10,Structural & Piping,198.03,264.04,21
+131,PRD-STR-0131,Producto Structural & Piping Grade-11,Structural & Piping,218.04,290.72,16
+132,PRD-STR-0132,Producto Structural & Piping Grade-12,Structural & Piping,753.41,1004.55,18
+133,PRD-STR-0133,Producto Structural & Piping Grade-13,Structural & Piping,231.25,308.33,15
+134,PRD-STR-0134,Producto Structural & Piping Grade-14,Structural & Piping,678.6,904.8,16
+135,PRD-STR-0135,Producto Structural & Piping Grade-15,Structural & Piping,828.31,1104.41,17
+136,PRD-STR-0136,Producto Structural & Piping Grade-16,Structural & Piping,190.8,254.4,18
+137,PRD-STR-0137,Producto Structural & Piping Grade-17,Structural & Piping,90.73,120.97,14
+138,PRD-STR-0138,Producto Structural & Piping Grade-18,Structural & Piping,181.5,242.0,15
+139,PRD-STR-0139,Producto Structural & Piping Grade-19,Structural & Piping,601.8,802.4,22
+140,PRD-STR-0140,Producto Structural & Piping Grade-20,Structural & Piping,469.87,626.49,14
+141,PRD-STR-0141,Producto Structural & Piping Grade-21,Structural & Piping,614.58,819.44,20
+142,PRD-STR-0142,Producto Structural & Piping Grade-22,Structural & Piping,233.83,311.77,18
+143,PRD-STR-0143,Producto Structural & Piping Grade-23,Structural & Piping,699.18,932.24,13
+144,PRD-STR-0144,Producto Structural & Piping Grade-24,Structural & Piping,649.02,865.36,20
+145,PRD-STR-0145,Producto Structural & Piping Grade-25,Structural & Piping,180.91,241.21,17
+146,PRD-STR-0146,Producto Structural & Piping Grade-26,Structural & Piping,794.22,1058.96,14
+147,PRD-STR-0147,Producto Structural & Piping Grade-27,Structural & Piping,386.14,514.85,22
+148,PRD-STR-0148,Producto Structural & Piping Grade-28,Structural & Piping,456.21,608.28,16
+149,PRD-STR-0149,Producto Structural & Piping Grade-29,Structural & Piping,590.41,787.21,16
+150,PRD-STR-0150,Producto Structural & Piping Grade-30,Structural & Piping,300.56,400.75,22
+151,PRD-STR-0151,Producto Structural & Piping Grade-31,Structural & Piping,792.1,1056.13,17
+152,PRD-STR-0152,Producto Structural & Piping Grade-32,Structural & Piping,507.5,676.67,13
+153,PRD-STR-0153,Producto Structural & Piping Grade-33,Structural & Piping,568.16,757.55,21
+154,PRD-STR-0154,Producto Structural & Piping Grade-34,Structural & Piping,188.06,250.75,14
+155,PRD-STR-0155,Producto Structural & Piping Grade-35,Structural & Piping,402.72,536.96,13
+156,PRD-STR-0156,Producto Structural & Piping Grade-36,Structural & Piping,538.95,718.6,22
+157,PRD-STR-0157,Producto Structural & Piping Grade-37,Structural & Piping,798.43,1064.57,20
+158,PRD-STR-0158,Producto Structural & Piping Grade-38,Structural & Piping,439.88,586.51,21
+159,PRD-STR-0159,Producto Structural & Piping Grade-39,Structural & Piping,684.27,912.36,21
+160,PRD-STR-0160,Producto Structural & Piping Grade-40,Structural & Piping,164.04,218.72,13
+161,PRD-STR-0161,Producto Structural & Piping Grade-41,Structural & Piping,718.66,958.21,15
+162,PRD-STR-0162,Producto Structural & Piping Grade-42,Structural & Piping,259.13,345.51,20
+163,PRD-STR-0163,Producto Structural & Piping Grade-43,Structural & Piping,488.69,651.59,20
+164,PRD-STR-0164,Producto Structural & Piping Grade-44,Structural & Piping,748.16,997.55,19
+165,PRD-STR-0165,Producto Structural & Piping Grade-45,Structural & Piping,544.39,725.85,15
+166,PRD-STR-0166,Producto Structural & Piping Grade-46,Structural & Piping,368.12,490.83,17
+167,PRD-STR-0167,Producto Structural & Piping Grade-47,Structural & Piping,407.93,543.91,14
+168,PRD-STR-0168,Producto Structural & Piping Grade-48,Structural & Piping,747.97,997.29,19
+169,PRD-STR-0169,Producto Structural & Piping Grade-49,Structural & Piping,429.5,572.67,18
+170,PRD-STR-0170,Producto Structural & Piping Grade-50,Structural & Piping,262.23,349.64,15
+171,PRD-STR-0171,Producto Structural & Piping Grade-51,Structural & Piping,654.43,872.57,21
+172,PRD-STR-0172,Producto Structural & Piping Grade-52,Structural & Piping,161.06,214.75,21
+173,PRD-STR-0173,Producto Structural & Piping Grade-53,Structural & Piping,131.25,175.0,17
+174,PRD-STR-0174,Producto Structural & Piping Grade-54,Structural & Piping,192.55,256.73,18
+175,PRD-STR-0175,Producto Structural & Piping Grade-55,Structural & Piping,714.99,953.32,16
+176,PRD-STR-0176,Producto Structural & Piping Grade-56,Structural & Piping,190.78,254.37,16
+177,PRD-STR-0177,Producto Structural & Piping Grade-57,Structural & Piping,789.15,1052.2,18
+178,PRD-STR-0178,Producto Structural & Piping Grade-58,Structural & Piping,299.23,398.97,14
+179,PRD-STR-0179,Producto Structural & Piping Grade-59,Structural & Piping,198.28,264.37,17
+180,PRD-STR-0180,Producto Structural & Piping Grade-60,Structural & Piping,96.28,128.37,14
+181,PRD-STR-0181,Producto Structural & Piping Grade-61,Structural & Piping,122.65,163.53,14
+182,PRD-STR-0182,Producto Structural & Piping Grade-62,Structural & Piping,121.1,161.47,14
+183,PRD-STR-0183,Producto Structural & Piping Grade-63,Structural & Piping,535.18,713.57,18
+184,PRD-STR-0184,Producto Structural & Piping Grade-64,Structural & Piping,383.1,510.8,19
+185,PRD-STR-0185,Producto Structural & Piping Grade-65,Structural & Piping,324.85,433.13,22
+186,PRD-STR-0186,Producto Structural & Piping Grade-66,Structural & Piping,753.75,1005.0,18
+187,PRD-STR-0187,Producto Structural & Piping Grade-67,Structural & Piping,735.37,980.49,18
+188,PRD-STR-0188,Producto Structural & Piping Grade-68,Structural & Piping,219.75,293.0,13
+189,PRD-STR-0189,Producto Structural & Piping Grade-69,Structural & Piping,262.29,349.72,15
+190,PRD-STR-0190,Producto Structural & Piping Grade-70,Structural & Piping,519.85,693.13,15
+191,PRD-STR-0191,Producto Structural & Piping Grade-71,Structural & Piping,400.52,534.03,15
+192,PRD-STR-0192,Producto Structural & Piping Grade-72,Structural & Piping,367.68,490.24,13
+193,PRD-STR-0193,Producto Structural & Piping Grade-73,Structural & Piping,483.29,644.39,21
+194,PRD-STR-0194,Producto Structural & Piping Grade-74,Structural & Piping,721.76,962.35,14
+195,PRD-STR-0195,Producto Structural & Piping Grade-75,Structural & Piping,120.01,160.01,17
+196,PRD-STR-0196,Producto Structural & Piping Grade-76,Structural & Piping,156.32,208.43,22
+197,PRD-STR-0197,Producto Structural & Piping Grade-77,Structural & Piping,729.55,972.73,21
+198,PRD-STR-0198,Producto Structural & Piping Grade-78,Structural & Piping,834.27,1112.36,22
+199,PRD-STR-0199,Producto Structural & Piping Grade-79,Structural & Piping,697.56,930.08,18
+200,PRD-STR-0200,Producto Structural & Piping Grade-80,Structural & Piping,574.71,766.28,20
+201,PRD-STR-0201,Producto Structural & Piping Grade-81,Structural & Piping,679.83,906.44,20
+202,PRD-STR-0202,Producto Structural & Piping Grade-82,Structural & Piping,492.77,657.03,14
+203,PRD-STR-0203,Producto Structural & Piping Grade-83,Structural & Piping,475.95,634.6,22
+204,PRD-STR-0204,Producto Structural & Piping Grade-84,Structural & Piping,436.36,581.81,21
+205,PRD-STR-0205,Producto Structural & Piping Grade-85,Structural & Piping,376.52,502.03,19
+206,PRD-STR-0206,Producto Structural & Piping Grade-86,Structural & Piping,285.18,380.24,19
+207,PRD-STR-0207,Producto Structural & Piping Grade-87,Structural & Piping,187.62,250.16,17
+208,PRD-STR-0208,Producto Structural & Piping Grade-88,Structural & Piping,401.0,534.67,17
+209,PRD-STR-0209,Producto Structural & Piping Grade-89,Structural & Piping,259.08,345.44,16
+210,PRD-STR-0210,Producto Structural & Piping Grade-90,Structural & Piping,362.12,482.83,16
+211,PRD-STR-0211,Producto Structural & Piping Grade-91,Structural & Piping,332.17,442.89,17
+212,PRD-STR-0212,Producto Structural & Piping Grade-92,Structural & Piping,608.02,810.69,16
+213,PRD-STR-0213,Producto Structural & Piping Grade-93,Structural & Piping,308.59,411.45,20
+214,PRD-STR-0214,Producto Structural & Piping Grade-94,Structural & Piping,785.59,1047.45,22
+215,PRD-STR-0215,Producto Structural & Piping Grade-95,Structural & Piping,450.3,600.4,20
+216,PRD-STR-0216,Producto Structural & Piping Grade-96,Structural & Piping,492.28,656.37,16
+217,PRD-STR-0217,Producto Structural & Piping Grade-97,Structural & Piping,733.39,977.85,17
+218,PRD-STR-0218,Producto Structural & Piping Grade-98,Structural & Piping,699.38,932.51,19
+219,PRD-STR-0219,Producto Structural & Piping Grade-99,Structural & Piping,490.2,653.6,20
+220,PRD-STR-0220,Producto Structural & Piping Grade-100,Structural & Piping,301.88,402.51,19
+221,PRD-ELE-0221,Producto Electrical & Industrial Grade-1,Electrical & Industrial,337.33,481.9,23
+222,PRD-ELE-0222,Producto Electrical & Industrial Grade-2,Electrical & Industrial,320.29,457.56,25
+223,PRD-ELE-0223,Producto Electrical & Industrial Grade-3,Electrical & Industrial,390.81,558.3,33
+224,PRD-ELE-0224,Producto Electrical & Industrial Grade-4,Electrical & Industrial,286.11,408.73,24
+225,PRD-ELE-0225,Producto Electrical & Industrial Grade-5,Electrical & Industrial,65.42,93.46,29
+226,PRD-ELE-0226,Producto Electrical & Industrial Grade-6,Electrical & Industrial,60.91,87.01,30
+227,PRD-ELE-0227,Producto Electrical & Industrial Grade-7,Electrical & Industrial,422.77,603.96,30
+228,PRD-ELE-0228,Producto Electrical & Industrial Grade-8,Electrical & Industrial,432.52,617.89,24
+229,PRD-ELE-0229,Producto Electrical & Industrial Grade-9,Electrical & Industrial,365.38,521.97,27
+230,PRD-ELE-0230,Producto Electrical & Industrial Grade-10,Electrical & Industrial,357.62,510.89,29
+231,PRD-ELE-0231,Producto Electrical & Industrial Grade-11,Electrical & Industrial,362.92,518.46,33
+232,PRD-ELE-0232,Producto Electrical & Industrial Grade-12,Electrical & Industrial,132.69,189.56,33
+233,PRD-ELE-0233,Producto Electrical & Industrial Grade-13,Electrical & Industrial,275.78,393.97,23
+234,PRD-ELE-0234,Producto Electrical & Industrial Grade-14,Electrical & Industrial,286.87,409.81,24
+235,PRD-ELE-0235,Producto Electrical & Industrial Grade-15,Electrical & Industrial,97.8,139.71,24
+236,PRD-ELE-0236,Producto Electrical & Industrial Grade-16,Electrical & Industrial,268.28,383.26,29
+237,PRD-ELE-0237,Producto Electrical & Industrial Grade-17,Electrical & Industrial,223.04,318.63,30
+238,PRD-ELE-0238,Producto Electrical & Industrial Grade-18,Electrical & Industrial,349.67,499.53,28
+239,PRD-ELE-0239,Producto Electrical & Industrial Grade-19,Electrical & Industrial,364.68,520.97,28
+240,PRD-ELE-0240,Producto Electrical & Industrial Grade-20,Electrical & Industrial,279.83,399.76,28
+241,PRD-ELE-0241,Producto Electrical & Industrial Grade-21,Electrical & Industrial,420.78,601.11,32
+242,PRD-ELE-0242,Producto Electrical & Industrial Grade-22,Electrical & Industrial,74.77,106.81,24
+243,PRD-ELE-0243,Producto Electrical & Industrial Grade-23,Electrical & Industrial,62.28,88.97,28
+244,PRD-ELE-0244,Producto Electrical & Industrial Grade-24,Electrical & Industrial,202.91,289.87,30
+245,PRD-ELE-0245,Producto Electrical & Industrial Grade-25,Electrical & Industrial,354.09,505.84,25
+246,PRD-ELE-0246,Producto Electrical & Industrial Grade-26,Electrical & Industrial,166.8,238.29,30
+247,PRD-ELE-0247,Producto Electrical & Industrial Grade-27,Electrical & Industrial,406.81,581.16,31
+248,PRD-ELE-0248,Producto Electrical & Industrial Grade-28,Electrical & Industrial,139.98,199.97,31
+249,PRD-ELE-0249,Producto Electrical & Industrial Grade-29,Electrical & Industrial,179.78,256.83,28
+250,PRD-ELE-0250,Producto Electrical & Industrial Grade-30,Electrical & Industrial,91.98,131.4,26
+251,PRD-ELE-0251,Producto Electrical & Industrial Grade-31,Electrical & Industrial,87.81,125.44,23
+252,PRD-ELE-0252,Producto Electrical & Industrial Grade-32,Electrical & Industrial,211.11,301.59,33
+253,PRD-ELE-0253,Producto Electrical & Industrial Grade-33,Electrical & Industrial,187.91,268.44,24
+254,PRD-ELE-0254,Producto Electrical & Industrial Grade-34,Electrical & Industrial,260.02,371.46,31
+255,PRD-ELE-0255,Producto Electrical & Industrial Grade-35,Electrical & Industrial,422.86,604.09,26
+256,PRD-ELE-0256,Producto Electrical & Industrial Grade-36,Electrical & Industrial,228.73,326.76,31
+257,PRD-ELE-0257,Producto Electrical & Industrial Grade-37,Electrical & Industrial,184.95,264.21,30
+258,PRD-ELE-0258,Producto Electrical & Industrial Grade-38,Electrical & Industrial,330.05,471.5,33
+259,PRD-ELE-0259,Producto Electrical & Industrial Grade-39,Electrical & Industrial,429.26,613.23,27
+260,PRD-ELE-0260,Producto Electrical & Industrial Grade-40,Electrical & Industrial,386.48,552.11,24
+261,PRD-ELE-0261,Producto Electrical & Industrial Grade-41,Electrical & Industrial,295.76,422.51,24
+262,PRD-ELE-0262,Producto Electrical & Industrial Grade-42,Electrical & Industrial,275.01,392.87,24
+263,PRD-ELE-0263,Producto Electrical & Industrial Grade-43,Electrical & Industrial,316.59,452.27,28
+264,PRD-ELE-0264,Producto Electrical & Industrial Grade-44,Electrical & Industrial,218.09,311.56,23
+265,PRD-ELE-0265,Producto Electrical & Industrial Grade-45,Electrical & Industrial,375.79,536.84,27
+266,PRD-ELE-0266,Producto Electrical & Industrial Grade-46,Electrical & Industrial,219.88,314.11,26
+267,PRD-ELE-0267,Producto Electrical & Industrial Grade-47,Electrical & Industrial,212.98,304.26,23
+268,PRD-ELE-0268,Producto Electrical & Industrial Grade-48,Electrical & Industrial,415.34,593.34,26
+269,PRD-ELE-0269,Producto Electrical & Industrial Grade-49,Electrical & Industrial,357.05,510.07,28
+270,PRD-ELE-0270,Producto Electrical & Industrial Grade-50,Electrical & Industrial,448.74,641.06,24
+271,PRD-ELE-0271,Producto Electrical & Industrial Grade-51,Electrical & Industrial,398.66,569.51,30
+272,PRD-ELE-0272,Producto Electrical & Industrial Grade-52,Electrical & Industrial,380.68,543.83,26
+273,PRD-ELE-0273,Producto Electrical & Industrial Grade-53,Electrical & Industrial,70.23,100.33,30
+274,PRD-ELE-0274,Producto Electrical & Industrial Grade-54,Electrical & Industrial,307.92,439.89,33
+275,PRD-ELE-0275,Producto Electrical & Industrial Grade-55,Electrical & Industrial,301.3,430.43,29
+276,PRD-ELE-0276,Producto Electrical & Industrial Grade-56,Electrical & Industrial,406.24,580.34,23
+277,PRD-ELE-0277,Producto Electrical & Industrial Grade-57,Electrical & Industrial,37.32,53.31,25
+278,PRD-ELE-0278,Producto Electrical & Industrial Grade-58,Electrical & Industrial,85.78,122.54,25
+279,PRD-ELE-0279,Producto Electrical & Industrial Grade-59,Electrical & Industrial,355.13,507.33,31
+280,PRD-ELE-0280,Producto Electrical & Industrial Grade-60,Electrical & Industrial,412.02,588.6,25
+281,PRD-ELE-0281,Producto Electrical & Industrial Grade-61,Electrical & Industrial,303.91,434.16,33
+282,PRD-ELE-0282,Producto Electrical & Industrial Grade-62,Electrical & Industrial,27.31,39.01,23
+283,PRD-ELE-0283,Producto Electrical & Industrial Grade-63,Electrical & Industrial,46.95,67.07,32
+284,PRD-ELE-0284,Producto Electrical & Industrial Grade-64,Electrical & Industrial,365.63,522.33,29
+285,PRD-ELE-0285,Producto Electrical & Industrial Grade-65,Electrical & Industrial,126.38,180.54,26
+286,PRD-ELE-0286,Producto Electrical & Industrial Grade-66,Electrical & Industrial,49.32,70.46,32
+287,PRD-ELE-0287,Producto Electrical & Industrial Grade-67,Electrical & Industrial,365.41,522.01,33
+288,PRD-ELE-0288,Producto Electrical & Industrial Grade-68,Electrical & Industrial,353.15,504.5,33
+289,PRD-ELE-0289,Producto Electrical & Industrial Grade-69,Electrical & Industrial,321.7,459.57,32
+290,PRD-ELE-0290,Producto Electrical & Industrial Grade-70,Electrical & Industrial,42.06,60.09,32
+291,PRD-ELE-0291,Producto Electrical & Industrial Grade-71,Electrical & Industrial,110.76,158.23,24
+292,PRD-ELE-0292,Producto Electrical & Industrial Grade-72,Electrical & Industrial,239.43,342.04,24
+293,PRD-ELE-0293,Producto Electrical & Industrial Grade-73,Electrical & Industrial,341.7,488.14,29
+294,PRD-ELE-0294,Producto Electrical & Industrial Grade-74,Electrical & Industrial,386.73,552.47,29
+295,PRD-ELE-0295,Producto Electrical & Industrial Grade-75,Electrical & Industrial,90.97,129.96,31
+296,PRD-ELE-0296,Producto Electrical & Industrial Grade-76,Electrical & Industrial,107.04,152.91,31
+297,PRD-ELE-0297,Producto Electrical & Industrial Grade-77,Electrical & Industrial,140.07,200.1,24
+298,PRD-ELE-0298,Producto Electrical & Industrial Grade-78,Electrical & Industrial,441.59,630.84,30
+299,PRD-ELE-0299,Producto Electrical & Industrial Grade-79,Electrical & Industrial,284.91,407.01,28
+300,PRD-ELE-0300,Producto Electrical & Industrial Grade-80,Electrical & Industrial,286.93,409.9,23
+301,PRD-ELE-0301,Producto Electrical & Industrial Grade-81,Electrical & Industrial,43.0,61.43,25
+302,PRD-ELE-0302,Producto Electrical & Industrial Grade-82,Electrical & Industrial,326.57,466.53,32
+303,PRD-ELE-0303,Producto Electrical & Industrial Grade-83,Electrical & Industrial,98.58,140.83,27
+304,PRD-ELE-0304,Producto Electrical & Industrial Grade-84,Electrical & Industrial,103.0,147.14,24
+305,PRD-ELE-0305,Producto Electrical & Industrial Grade-85,Electrical & Industrial,441.51,630.73,29
+306,PRD-ELE-0306,Producto Electrical & Industrial Grade-86,Electrical & Industrial,358.23,511.76,28
+307,PRD-ELE-0307,Producto Electrical & Industrial Grade-87,Electrical & Industrial,295.47,422.1,32
+308,PRD-ELE-0308,Producto Electrical & Industrial Grade-88,Electrical & Industrial,86.68,123.83,29
+309,PRD-ELE-0309,Producto Electrical & Industrial Grade-89,Electrical & Industrial,427.06,610.09,28
+310,PRD-ELE-0310,Producto Electrical & Industrial Grade-90,Electrical & Industrial,270.66,386.66,26
+311,PRD-ELE-0311,Producto Electrical & Industrial Grade-91,Electrical & Industrial,322.4,460.57,25
+312,PRD-ELE-0312,Producto Electrical & Industrial Grade-92,Electrical & Industrial,424.75,606.79,30
+313,PRD-ELE-0313,Producto Electrical & Industrial Grade-93,Electrical & Industrial,88.09,125.84,28
+314,PRD-ELE-0314,Producto Electrical & Industrial Grade-94,Electrical & Industrial,196.71,281.01,28
+315,PRD-ELE-0315,Producto Electrical & Industrial Grade-95,Electrical & Industrial,226.52,323.6,24
+316,PRD-ELE-0316,Producto Electrical & Industrial Grade-96,Electrical & Industrial,81.99,117.13,24
+317,PRD-ELE-0317,Producto Electrical & Industrial Grade-97,Electrical & Industrial,143.18,204.54,24
+318,PRD-ELE-0318,Producto Electrical & Industrial Grade-98,Electrical & Industrial,206.86,295.51,26
+319,PRD-ELE-0319,Producto Electrical & Industrial Grade-99,Electrical & Industrial,284.67,406.67,27
+320,PRD-ELE-0320,Producto Electrical & Industrial Grade-100,Electrical & Industrial,200.02,285.74,29
+321,PRD-ELE-0321,Producto Electrical & Industrial Grade-101,Electrical & Industrial,198.73,283.9,32
+322,PRD-ELE-0322,Producto Electrical & Industrial Grade-102,Electrical & Industrial,275.03,392.9,25
+323,PRD-ELE-0323,Producto Electrical & Industrial Grade-103,Electrical & Industrial,159.74,228.2,33
+324,PRD-ELE-0324,Producto Electrical & Industrial Grade-104,Electrical & Industrial,202.82,289.74,23
+325,PRD-ELE-0325,Producto Electrical & Industrial Grade-105,Electrical & Industrial,226.51,323.59,24
+326,PRD-ELE-0326,Producto Electrical & Industrial Grade-106,Electrical & Industrial,268.29,383.27,25
+327,PRD-ELE-0327,Producto Electrical & Industrial Grade-107,Electrical & Industrial,265.45,379.21,29
+328,PRD-ELE-0328,Producto Electrical & Industrial Grade-108,Electrical & Industrial,300.38,429.11,30
+329,PRD-ELE-0329,Producto Electrical & Industrial Grade-109,Electrical & Industrial,302.28,431.83,29
+330,PRD-ELE-0330,Producto Electrical & Industrial Grade-110,Electrical & Industrial,359.66,513.8,26
+331,PRD-HEA-0331,Producto Heavy Equipment & Tools Grade-1,Heavy Equipment & Tools,2012.18,2794.69,35
+332,PRD-HEA-0332,Producto Heavy Equipment & Tools Grade-2,Heavy Equipment & Tools,2265.84,3147.0,37
+333,PRD-HEA-0333,Producto Heavy Equipment & Tools Grade-3,Heavy Equipment & Tools,1390.17,1930.79,42
+334,PRD-HEA-0334,Producto Heavy Equipment & Tools Grade-4,Heavy Equipment & Tools,2631.13,3654.35,38
+335,PRD-HEA-0335,Producto Heavy Equipment & Tools Grade-5,Heavy Equipment & Tools,3125.13,4340.46,35
+336,PRD-HEA-0336,Producto Heavy Equipment & Tools Grade-6,Heavy Equipment & Tools,1861.99,2586.1,42
+337,PRD-HEA-0337,Producto Heavy Equipment & Tools Grade-7,Heavy Equipment & Tools,1916.91,2662.38,36
+338,PRD-HEA-0338,Producto Heavy Equipment & Tools Grade-8,Heavy Equipment & Tools,1237.69,1719.01,41
+339,PRD-HEA-0339,Producto Heavy Equipment & Tools Grade-9,Heavy Equipment & Tools,2963.36,4115.78,37
+340,PRD-HEA-0340,Producto Heavy Equipment & Tools Grade-10,Heavy Equipment & Tools,582.33,808.79,38
+341,PRD-HEA-0341,Producto Heavy Equipment & Tools Grade-11,Heavy Equipment & Tools,437.8,608.06,41
+342,PRD-HEA-0342,Producto Heavy Equipment & Tools Grade-12,Heavy Equipment & Tools,383.37,532.46,41
+343,PRD-HEA-0343,Producto Heavy Equipment & Tools Grade-13,Heavy Equipment & Tools,1126.02,1563.92,39
+344,PRD-HEA-0344,Producto Heavy Equipment & Tools Grade-14,Heavy Equipment & Tools,770.88,1070.67,37
+345,PRD-HEA-0345,Producto Heavy Equipment & Tools Grade-15,Heavy Equipment & Tools,1235.85,1716.46,34
+346,PRD-HEA-0346,Producto Heavy Equipment & Tools Grade-16,Heavy Equipment & Tools,248.45,345.07,40
+347,PRD-HEA-0347,Producto Heavy Equipment & Tools Grade-17,Heavy Equipment & Tools,2929.67,4068.99,40
+348,PRD-HEA-0348,Producto Heavy Equipment & Tools Grade-18,Heavy Equipment & Tools,1428.46,1983.97,41
+349,PRD-HEA-0349,Producto Heavy Equipment & Tools Grade-19,Heavy Equipment & Tools,706.92,981.83,36
+350,PRD-HEA-0350,Producto Heavy Equipment & Tools Grade-20,Heavy Equipment & Tools,594.92,826.28,39
+351,PRD-HEA-0351,Producto Heavy Equipment & Tools Grade-21,Heavy Equipment & Tools,1404.23,1950.32,38
+352,PRD-HEA-0352,Producto Heavy Equipment & Tools Grade-22,Heavy Equipment & Tools,3485.03,4840.32,42
+353,PRD-HEA-0353,Producto Heavy Equipment & Tools Grade-23,Heavy Equipment & Tools,2747.95,3816.6,37
+354,PRD-HEA-0354,Producto Heavy Equipment & Tools Grade-24,Heavy Equipment & Tools,2469.29,3429.57,36
+355,PRD-HEA-0355,Producto Heavy Equipment & Tools Grade-25,Heavy Equipment & Tools,2527.84,3510.89,40
+356,PRD-HEA-0356,Producto Heavy Equipment & Tools Grade-26,Heavy Equipment & Tools,2314.93,3215.18,37
+357,PRD-HEA-0357,Producto Heavy Equipment & Tools Grade-27,Heavy Equipment & Tools,235.4,326.94,40
+358,PRD-HEA-0358,Producto Heavy Equipment & Tools Grade-28,Heavy Equipment & Tools,1932.79,2684.43,35
+359,PRD-HEA-0359,Producto Heavy Equipment & Tools Grade-29,Heavy Equipment & Tools,740.38,1028.31,40
+360,PRD-HEA-0360,Producto Heavy Equipment & Tools Grade-30,Heavy Equipment & Tools,2959.8,4110.83,35
+361,PRD-HEA-0361,Producto Heavy Equipment & Tools Grade-31,Heavy Equipment & Tools,3464.14,4811.31,42
+362,PRD-HEA-0362,Producto Heavy Equipment & Tools Grade-32,Heavy Equipment & Tools,2968.93,4123.51,39
+363,PRD-HEA-0363,Producto Heavy Equipment & Tools Grade-33,Heavy Equipment & Tools,3468.06,4816.75,39
+364,PRD-HEA-0364,Producto Heavy Equipment & Tools Grade-34,Heavy Equipment & Tools,1679.21,2332.24,35
+365,PRD-HEA-0365,Producto Heavy Equipment & Tools Grade-35,Heavy Equipment & Tools,1495.49,2077.07,36
+366,PRD-HEA-0366,Producto Heavy Equipment & Tools Grade-36,Heavy Equipment & Tools,2692.59,3739.71,34
+367,PRD-HEA-0367,Producto Heavy Equipment & Tools Grade-37,Heavy Equipment & Tools,1631.47,2265.93,38
+368,PRD-HEA-0368,Producto Heavy Equipment & Tools Grade-38,Heavy Equipment & Tools,697.22,968.36,38
+369,PRD-HEA-0369,Producto Heavy Equipment & Tools Grade-39,Heavy Equipment & Tools,797.06,1107.03,36
+370,PRD-HEA-0370,Producto Heavy Equipment & Tools Grade-40,Heavy Equipment & Tools,347.34,482.42,42
+371,PRD-HEA-0371,Producto Heavy Equipment & Tools Grade-41,Heavy Equipment & Tools,968.41,1345.01,35
+372,PRD-HEA-0372,Producto Heavy Equipment & Tools Grade-42,Heavy Equipment & Tools,1817.65,2524.51,36
+373,PRD-HEA-0373,Producto Heavy Equipment & Tools Grade-43,Heavy Equipment & Tools,2135.27,2965.65,40
+374,PRD-HEA-0374,Producto Heavy Equipment & Tools Grade-44,Heavy Equipment & Tools,477.58,663.31,38
+375,PRD-HEA-0375,Producto Heavy Equipment & Tools Grade-45,Heavy Equipment & Tools,1004.1,1394.58,41
+376,PRD-HEA-0376,Producto Heavy Equipment & Tools Grade-46,Heavy Equipment & Tools,2304.04,3200.06,41
+377,PRD-HEA-0377,Producto Heavy Equipment & Tools Grade-47,Heavy Equipment & Tools,2342.19,3253.04,37
+378,PRD-HEA-0378,Producto Heavy Equipment & Tools Grade-48,Heavy Equipment & Tools,2717.58,3774.42,40
+379,PRD-HEA-0379,Producto Heavy Equipment & Tools Grade-49,Heavy Equipment & Tools,391.76,544.11,40
+380,PRD-HEA-0380,Producto Heavy Equipment & Tools Grade-50,Heavy Equipment & Tools,1980.44,2750.61,37
+381,PRD-HEA-0381,Producto Heavy Equipment & Tools Grade-51,Heavy Equipment & Tools,1316.91,1829.04,42
+382,PRD-HEA-0382,Producto Heavy Equipment & Tools Grade-52,Heavy Equipment & Tools,1792.49,2489.57,41
+383,PRD-HEA-0383,Producto Heavy Equipment & Tools Grade-53,Heavy Equipment & Tools,2736.47,3800.65,40
+384,PRD-HEA-0384,Producto Heavy Equipment & Tools Grade-54,Heavy Equipment & Tools,1865.81,2591.4,41
+385,PRD-HEA-0385,Producto Heavy Equipment & Tools Grade-55,Heavy Equipment & Tools,3201.52,4446.56,36
+386,PRD-HEA-0386,Producto Heavy Equipment & Tools Grade-56,Heavy Equipment & Tools,3005.91,4174.88,39
+387,PRD-HEA-0387,Producto Heavy Equipment & Tools Grade-57,Heavy Equipment & Tools,1323.95,1838.82,39
+388,PRD-HEA-0388,Producto Heavy Equipment & Tools Grade-58,Heavy Equipment & Tools,1953.66,2713.42,38
+389,PRD-HEA-0389,Producto Heavy Equipment & Tools Grade-59,Heavy Equipment & Tools,546.43,758.93,34
+390,PRD-HEA-0390,Producto Heavy Equipment & Tools Grade-60,Heavy Equipment & Tools,3227.21,4482.24,37
+391,PRD-HEA-0391,Producto Heavy Equipment & Tools Grade-61,Heavy Equipment & Tools,2281.75,3169.1,37
+392,PRD-HEA-0392,Producto Heavy Equipment & Tools Grade-62,Heavy Equipment & Tools,1318.22,1830.86,35
+393,PRD-HEA-0393,Producto Heavy Equipment & Tools Grade-63,Heavy Equipment & Tools,832.29,1155.96,36
+394,PRD-HEA-0394,Producto Heavy Equipment & Tools Grade-64,Heavy Equipment & Tools,3260.62,4528.64,34
+395,PRD-HEA-0395,Producto Heavy Equipment & Tools Grade-65,Heavy Equipment & Tools,1679.08,2332.06,37
+396,PRD-HEA-0396,Producto Heavy Equipment & Tools Grade-66,Heavy Equipment & Tools,2174.97,3020.79,36
+397,PRD-HEA-0397,Producto Heavy Equipment & Tools Grade-67,Heavy Equipment & Tools,224.14,311.31,37
+398,PRD-HEA-0398,Producto Heavy Equipment & Tools Grade-68,Heavy Equipment & Tools,2520.01,3500.01,36
+399,PRD-HEA-0399,Producto Heavy Equipment & Tools Grade-69,Heavy Equipment & Tools,2291.44,3182.56,40
+400,PRD-HEA-0400,Producto Heavy Equipment & Tools Grade-70,Heavy Equipment & Tools,2247.18,3121.08,42
+401,PRD-HEA-0401,Producto Heavy Equipment & Tools Grade-71,Heavy Equipment & Tools,1775.77,2466.35,42
+402,PRD-HEA-0402,Producto Heavy Equipment & Tools Grade-72,Heavy Equipment & Tools,3180.98,4418.03,40
+403,PRD-HEA-0403,Producto Heavy Equipment & Tools Grade-73,Heavy Equipment & Tools,2578.3,3580.97,36
+404,PRD-HEA-0404,Producto Heavy Equipment & Tools Grade-74,Heavy Equipment & Tools,2780.62,3861.97,42
+405,PRD-HEA-0405,Producto Heavy Equipment & Tools Grade-75,Heavy Equipment & Tools,3060.44,4250.61,34
+406,PRD-HEA-0406,Producto Heavy Equipment & Tools Grade-76,Heavy Equipment & Tools,2616.96,3634.67,35
+407,PRD-HEA-0407,Producto Heavy Equipment & Tools Grade-77,Heavy Equipment & Tools,1652.29,2294.85,39
+408,PRD-HEA-0408,Producto Heavy Equipment & Tools Grade-78,Heavy Equipment & Tools,2358.54,3275.75,38
+409,PRD-HEA-0409,Producto Heavy Equipment & Tools Grade-79,Heavy Equipment & Tools,3400.39,4722.76,34
+410,PRD-HEA-0410,Producto Heavy Equipment & Tools Grade-80,Heavy Equipment & Tools,1151.15,1598.82,42
+411,PRD-HEA-0411,Producto Heavy Equipment & Tools Grade-81,Heavy Equipment & Tools,2621.39,3640.82,42
+412,PRD-HEA-0412,Producto Heavy Equipment & Tools Grade-82,Heavy Equipment & Tools,1343.43,1865.88,40
+413,PRD-HEA-0413,Producto Heavy Equipment & Tools Grade-83,Heavy Equipment & Tools,608.77,845.51,36
+414,PRD-HEA-0414,Producto Heavy Equipment & Tools Grade-84,Heavy Equipment & Tools,2765.23,3840.6,34
+415,PRD-HEA-0415,Producto Heavy Equipment & Tools Grade-85,Heavy Equipment & Tools,1816.01,2522.24,41
+416,PRD-HEA-0416,Producto Heavy Equipment & Tools Grade-86,Heavy Equipment & Tools,1734.41,2408.9,42
+417,PRD-HEA-0417,Producto Heavy Equipment & Tools Grade-87,Heavy Equipment & Tools,3427.13,4759.9,36
+418,PRD-HEA-0418,Producto Heavy Equipment & Tools Grade-88,Heavy Equipment & Tools,2819.15,3915.49,37
+419,PRD-HEA-0419,Producto Heavy Equipment & Tools Grade-89,Heavy Equipment & Tools,479.9,666.53,35
+420,PRD-HEA-0420,Producto Heavy Equipment & Tools Grade-90,Heavy Equipment & Tools,2846.8,3953.89,38
+421,PRD-SAF-0421,Producto Safety & Maintenance Grade-1,Safety & Maintenance,167.2,257.23,46
+422,PRD-SAF-0422,Producto Safety & Maintenance Grade-2,Safety & Maintenance,16.29,25.06,49
+423,PRD-SAF-0423,Producto Safety & Maintenance Grade-3,Safety & Maintenance,73.36,112.86,50
+424,PRD-SAF-0424,Producto Safety & Maintenance Grade-4,Safety & Maintenance,28.58,43.97,43
+425,PRD-SAF-0425,Producto Safety & Maintenance Grade-5,Safety & Maintenance,124.8,192.0,49
+426,PRD-SAF-0426,Producto Safety & Maintenance Grade-6,Safety & Maintenance,141.53,217.74,48
+427,PRD-SAF-0427,Producto Safety & Maintenance Grade-7,Safety & Maintenance,157.13,241.74,48
+428,PRD-SAF-0428,Producto Safety & Maintenance Grade-8,Safety & Maintenance,146.15,224.85,48
+429,PRD-SAF-0429,Producto Safety & Maintenance Grade-9,Safety & Maintenance,18.32,28.18,50
+430,PRD-SAF-0430,Producto Safety & Maintenance Grade-10,Safety & Maintenance,115.72,178.03,44
+431,PRD-SAF-0431,Producto Safety & Maintenance Grade-11,Safety & Maintenance,155.88,239.82,46
+432,PRD-SAF-0432,Producto Safety & Maintenance Grade-12,Safety & Maintenance,97.49,149.98,43
+433,PRD-SAF-0433,Producto Safety & Maintenance Grade-13,Safety & Maintenance,125.14,192.52,47
+434,PRD-SAF-0434,Producto Safety & Maintenance Grade-14,Safety & Maintenance,78.23,120.35,43
+435,PRD-SAF-0435,Producto Safety & Maintenance Grade-15,Safety & Maintenance,162.26,249.63,47
+436,PRD-SAF-0436,Producto Safety & Maintenance Grade-16,Safety & Maintenance,50.4,77.54,48
+437,PRD-SAF-0437,Producto Safety & Maintenance Grade-17,Safety & Maintenance,154.97,238.42,47
+438,PRD-SAF-0438,Producto Safety & Maintenance Grade-18,Safety & Maintenance,155.07,238.57,45
+439,PRD-SAF-0439,Producto Safety & Maintenance Grade-19,Safety & Maintenance,60.82,93.57,48
+440,PRD-SAF-0440,Producto Safety & Maintenance Grade-20,Safety & Maintenance,77.48,119.2,47
+441,PRD-SAF-0441,Producto Safety & Maintenance Grade-21,Safety & Maintenance,56.72,87.26,47
+442,PRD-SAF-0442,Producto Safety & Maintenance Grade-22,Safety & Maintenance,41.89,64.45,50
+443,PRD-SAF-0443,Producto Safety & Maintenance Grade-23,Safety & Maintenance,24.42,37.57,48
+444,PRD-SAF-0444,Producto Safety & Maintenance Grade-24,Safety & Maintenance,132.0,203.08,45
+445,PRD-SAF-0445,Producto Safety & Maintenance Grade-25,Safety & Maintenance,147.26,226.55,47
+446,PRD-SAF-0446,Producto Safety & Maintenance Grade-26,Safety & Maintenance,60.38,92.89,50
+447,PRD-SAF-0447,Producto Safety & Maintenance Grade-27,Safety & Maintenance,79.35,122.08,47
+448,PRD-SAF-0448,Producto Safety & Maintenance Grade-28,Safety & Maintenance,107.73,165.74,44
+449,PRD-SAF-0449,Producto Safety & Maintenance Grade-29,Safety & Maintenance,179.59,276.29,49
+450,PRD-SAF-0450,Producto Safety & Maintenance Grade-30,Safety & Maintenance,111.19,171.06,48
+451,PRD-SAF-0451,Producto Safety & Maintenance Grade-31,Safety & Maintenance,76.7,118.0,46
+452,PRD-SAF-0452,Producto Safety & Maintenance Grade-32,Safety & Maintenance,94.48,145.35,50
+453,PRD-SAF-0453,Producto Safety & Maintenance Grade-33,Safety & Maintenance,32.84,50.52,43
+454,PRD-SAF-0454,Producto Safety & Maintenance Grade-34,Safety & Maintenance,21.42,32.95,45
+455,PRD-SAF-0455,Producto Safety & Maintenance Grade-35,Safety & Maintenance,44.34,68.22,47
+456,PRD-SAF-0456,Producto Safety & Maintenance Grade-36,Safety & Maintenance,87.06,133.94,43
+457,PRD-SAF-0457,Producto Safety & Maintenance Grade-37,Safety & Maintenance,117.87,181.34,50
+458,PRD-SAF-0458,Producto Safety & Maintenance Grade-38,Safety & Maintenance,81.46,125.32,45
+459,PRD-SAF-0459,Producto Safety & Maintenance Grade-39,Safety & Maintenance,173.07,266.26,50
+460,PRD-SAF-0460,Producto Safety & Maintenance Grade-40,Safety & Maintenance,101.95,156.85,49
+461,PRD-SAF-0461,Producto Safety & Maintenance Grade-41,Safety & Maintenance,58.37,89.8,45
+462,PRD-SAF-0462,Producto Safety & Maintenance Grade-42,Safety & Maintenance,49.97,76.88,50
+463,PRD-SAF-0463,Producto Safety & Maintenance Grade-43,Safety & Maintenance,65.31,100.48,50
+464,PRD-SAF-0464,Producto Safety & Maintenance Grade-44,Safety & Maintenance,100.02,153.88,50
+465,PRD-SAF-0465,Producto Safety & Maintenance Grade-45,Safety & Maintenance,136.19,209.52,44
+466,PRD-SAF-0466,Producto Safety & Maintenance Grade-46,Safety & Maintenance,121.08,186.28,47
+467,PRD-SAF-0467,Producto Safety & Maintenance Grade-47,Safety & Maintenance,60.9,93.69,49
+468,PRD-SAF-0468,Producto Safety & Maintenance Grade-48,Safety & Maintenance,64.82,99.72,44
+469,PRD-SAF-0469,Producto Safety & Maintenance Grade-49,Safety & Maintenance,36.43,56.05,45
+470,PRD-SAF-0470,Producto Safety & Maintenance Grade-50,Safety & Maintenance,58.15,89.46,49
+471,PRD-SAF-0471,Producto Safety & Maintenance Grade-51,Safety & Maintenance,105.45,162.23,45
+472,PRD-SAF-0472,Producto Safety & Maintenance Grade-52,Safety & Maintenance,143.25,220.38,49
+473,PRD-SAF-0473,Producto Safety & Maintenance Grade-53,Safety & Maintenance,84.53,130.05,49
+474,PRD-SAF-0474,Producto Safety & Maintenance Grade-54,Safety & Maintenance,179.1,275.54,46
+475,PRD-SAF-0475,Producto Safety & Maintenance Grade-55,Safety & Maintenance,124.68,191.82,45
+476,PRD-SAF-0476,Producto Safety & Maintenance Grade-56,Safety & Maintenance,163.43,251.43,49
+477,PRD-SAF-0477,Producto Safety & Maintenance Grade-57,Safety & Maintenance,143.89,221.37,46
+478,PRD-SAF-0478,Producto Safety & Maintenance Grade-58,Safety & Maintenance,105.57,162.42,44
+479,PRD-SAF-0479,Producto Safety & Maintenance Grade-59,Safety & Maintenance,27.32,42.03,46
+480,PRD-SAF-0480,Producto Safety & Maintenance Grade-60,Safety & Maintenance,172.41,265.25,48
+481,PRD-SAF-0481,Producto Safety & Maintenance Grade-61,Safety & Maintenance,97.16,149.48,50
+482,PRD-SAF-0482,Producto Safety & Maintenance Grade-62,Safety & Maintenance,16.09,24.75,46
+483,PRD-SAF-0483,Producto Safety & Maintenance Grade-63,Safety & Maintenance,173.16,266.4,48
+484,PRD-SAF-0484,Producto Safety & Maintenance Grade-64,Safety & Maintenance,16.98,26.12,43
+485,PRD-SAF-0485,Producto Safety & Maintenance Grade-65,Safety & Maintenance,51.83,79.74,47
+486,PRD-SAF-0486,Producto Safety & Maintenance Grade-66,Safety & Maintenance,87.37,134.42,43
+487,PRD-SAF-0487,Producto Safety & Maintenance Grade-67,Safety & Maintenance,97.73,150.35,49
+488,PRD-SAF-0488,Producto Safety & Maintenance Grade-68,Safety & Maintenance,18.66,28.71,45
+489,PRD-SAF-0489,Producto Safety & Maintenance Grade-69,Safety & Maintenance,28.97,44.57,48
+490,PRD-SAF-0490,Producto Safety & Maintenance Grade-70,Safety & Maintenance,20.29,31.22,46
+491,PRD-SAF-0491,Producto Safety & Maintenance Grade-71,Safety & Maintenance,128.69,197.98,46
+492,PRD-SAF-0492,Producto Safety & Maintenance Grade-72,Safety & Maintenance,61.35,94.38,44
+493,PRD-SAF-0493,Producto Safety & Maintenance Grade-73,Safety & Maintenance,77.0,118.46,44
+494,PRD-SAF-0494,Producto Safety & Maintenance Grade-74,Safety & Maintenance,10.28,15.82,46
+495,PRD-SAF-0495,Producto Safety & Maintenance Grade-75,Safety & Maintenance,29.05,44.69,46
+496,PRD-SAF-0496,Producto Safety & Maintenance Grade-76,Safety & Maintenance,10.21,15.71,49
+497,PRD-SAF-0497,Producto Safety & Maintenance Grade-77,Safety & Maintenance,96.39,148.29,45
+498,PRD-SAF-0498,Producto Safety & Maintenance Grade-78,Safety & Maintenance,66.63,102.51,46
+499,PRD-SAF-0499,Producto Safety & Maintenance Grade-79,Safety & Maintenance,83.33,128.2,47
+500,PRD-SAF-0500,Producto Safety & Maintenance Grade-80,Safety & Maintenance,153.0,235.38,49
