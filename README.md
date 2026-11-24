@@ -89,12 +89,6 @@ MSSQL_PORT=1433
 MSSQL_DATABASE=SAbupe
 MSSQL_USER=sa
 MSSQL_SA_PASSWORD=TU_CONTRASEÑA_AQUI
-
-# PostgreSQL (si aplica a otros módulos del repositorio)
-POSTGRES_USER=TU_USUARIO_POSTGRES
-POSTGRES_PASSWORD=TU_CONTRASEÑA_POSTGRES
-POSTGRES_DB=postgres
-POSTGRES_PORT=5432
 ```
 
 * **Dependencias Python:** Instala los paquetes de `requirements.txt` (incluyendo `pyodbc`, `pandas`, `numpy`, `faker`, `python-dotenv`, `pytest`) y asegúrate de tener instalado **ODBC Driver 18 for SQL Server** en el sistema.
